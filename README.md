@@ -1,1 +1,4 @@
 # typingRaw
+typingkale
+kalety
+tytykale
