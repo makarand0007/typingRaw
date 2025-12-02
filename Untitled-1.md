@@ -1,8 +1,0 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://makarand0007.github.io/typingRaw/</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
